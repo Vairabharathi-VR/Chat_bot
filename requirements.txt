@@ -1,0 +1,6 @@
+nltk
+spacy
+python-docx
+scikit_learn
+mysql-connector-python
+streamlit
